@@ -1,4 +1,5 @@
-var arraygroup = require('../arraygroup-orig');
+// var arraygroup = require('../orig/arraygroup'); // test original
+var arraygroup = require('../arraygroup');
 var test = require('tape');
 
 // ref: https://github.com/liuliu/ccv/blob/unstable/test/functional/util.tests.c#L51
