@@ -8,6 +8,10 @@
   [JS library](https://github.com/liuliu/ccv/blob/unstable/js/ccv.js) into
   a browserify friendly module.
 
+  Why am I doing this?  Well I'd like to see
+  [clmtrackr](https://github.com/auduno/clmtrackr) land in NPM and it requires
+  both `ccv` and `numeric` as dependencies.
+
   ## Relationship with the Original Code
 
   The code is licensed under the same

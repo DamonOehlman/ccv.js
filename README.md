@@ -4,6 +4,10 @@ This is a port of the original [libccv](https://github.com/liuliu/ccv)
 [JS library](https://github.com/liuliu/ccv/blob/unstable/js/ccv.js) into
 a browserify friendly module.
 
+Why am I doing this?  Well I'd like to see
+[clmtrackr](https://github.com/auduno/clmtrackr) land in NPM and it requires
+both `ccv` and `numeric` as dependencies.
+
 
 [![NPM](https://nodei.co/npm/ccv.png)](https://nodei.co/npm/ccv/)
 
