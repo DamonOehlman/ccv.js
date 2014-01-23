@@ -4,6 +4,11 @@ This is a port of the original [libccv](https://github.com/liuliu/ccv)
 [JS library](https://github.com/liuliu/ccv/blob/unstable/js/ccv.js) into
 a browserify friendly module.
 
+
+[![NPM](https://nodei.co/npm/ccv.png)](https://nodei.co/npm/ccv/)
+
+[![Build Status](https://travis-ci.org/DamonOehlman/ccv.js.png?branch=master)](https://travis-ci.org/DamonOehlman/ccv.js)
+
 ## Relationship with the Original Code
 
 The code is licensed under the same
